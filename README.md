@@ -1,5 +1,4 @@
 # python-portfolio-project-u-s-medical-insurance
-Let's try adding a line right here.
 
 This project **imports a csv file** and then performs some quick **data analyses** on the file data. It employs a helper function that I created, as well as a class with five class methods. The final class method is used to create a dictionary; this is invoked in the very last code cell of the project where I coalesce all of the (US Insurance Market Cost) client data.
 
